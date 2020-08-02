@@ -1,5 +1,4 @@
-library(testthat)
-library(quakeTools)
+context("quakeTools")
 
 test_that("eq_location_clean return is character", {
   expect_that(eq_location_clean("location : test"), is_a("character"))

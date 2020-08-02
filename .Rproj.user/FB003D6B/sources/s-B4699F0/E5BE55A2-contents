@@ -289,7 +289,7 @@ geom_timeline_label <- function(mapping = NULL, data = NULL, stat = "identity",
 #' @return Map with earthquakes sites
 #'
 #' @importFrom leaflet leaflet addTiles addCircleMarkers
-#' @importFrom dplyr "%>%"
+#' @importFrom magrittr `%>%`
 #'
 #' @examples
 #' \dontrun{

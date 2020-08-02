@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 A simple vignette with a simple example.
 
 ```{r, fig.show='hold'}
-library(magrittr)
+library(quakeTools)
 earthquakes %>%
   eq_clean_data() %>%
   dplyr::filter(COUNTRY == "MEXICO" & lubridate::year(DATE) >= 2000) %>%

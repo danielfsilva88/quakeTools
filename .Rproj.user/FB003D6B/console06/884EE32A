@@ -289,4 +289,227 @@ The file will have its original line endings in your working directory[0K.
 oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
 tion and Packaging/quakeTools[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25h[?25lam ""[0K[19G[?25h[?25l$ git commit -am "f"[0K[20G[?25h[?25l$ git commit -am "fi"[0K[21G[?25h[?25l$ git commit -am "fir"[0K[22G[?25h[?25l$ git commit -am "firs"[0K[23G[?25h[?25l$ git commit -am "first"[0K[24G[?25h[?25l$ git commit -am "first "[0K[25G[?25h[?25l$ git commit -am "first c"[0K[26G[?25h[?25l$ git commit -am "first co"[0K[27G[?25h[?25l$ git commit -am "first com"[0K[28G[?25h[?25l$ git commit -am "first comm"[0K[29G[?25h[?25l$ git commit -am "first commi"[0K[30G[?25h[?25l$ git commit -am "first commit"[0K[31G[?25h[?25l$ git commit -am "first commit "[0K[32G[?25h[?25l$ git commit -am "first commit f"[0K[33G[?25h[?25l$ git commit -am "first commit fr"[0K[34G[?25h[?25l$ git commit -am "first commit frmo"[0K[36G[?25h[?25l$ git commit -am "first commit frmo "[0K[37G[?25h[?25l$ git commit -am "first commit frmo"[0K[36G[?25h[?25l$ git commit -am "first commit frm"[0K[35G[?25h[?25l$ git commit -am "first commit fr"[0K[34G[?25h[?25l$ git commit -am "first commit fro"[0K[35G[?25h[?25l$ git commit -am "first commit from"[0K[36G[?25h[?25l$ git commit -am "first commit from "[0K[37G[?25h[?25l$ git commit -am "first commit from q"[0K[38G[?25h[?25l$ git commit -am "first commit from qu"[0K[39G[?25h[?25l$ git commit -am "first commit from qua"[0K[40G[?25h[?25l$ git commit -am "first commit from quak"[0K[41G[?25h[?25l$ git commit -am "first commit from quake"[0K[42G[?25h[?25l$ git commit -am "first commit from quaket"[0K[43G[?25h[?25l$ git commit -am "first commit from quaketo"[0K[44G[?25h[?25l$ git commit -am "first commit from quaketoo"[0K[45G[?25h[?25l$ git commit -am "first commit from quaketool"[0K[46G[?25h[?25l$ git commit -am "first commit from quaketools"[0K[47G[?25h[46G[45G[44G[43G[?25l$ git commit -am "first commit from quakeools"[0K[42G[?25h[?25l$ git commit -am "first commit from quakeTools"[0K[43G[?25h[44G[45G[46G[47G[46G[47G[?25l$ git commit -am "first commit from quakeTools "[0K[48G[?25h[?25l$ git commit -am "first commit from quakeTools p"[0K[49G[?25h[?25l$ git commit -am "first commit from quakeTools pr"[0K[50G[?25h[?25l$ git commit -am "first commit from quakeTools pro"[0K[51G[?25h[?25l$ git commit -am "first commit from quakeTools proj"[0K[52G[?25h[?25l$ git commit -am "first commit from quakeTools proje"[0K[53G[?25h[?25l$ git commit -am "first commit from quakeTools projec"[0K[54G[?25h[?25l$ git commit -am "first commit from quakeTools project"[0K[55G[?25h[?25l
+[0K[?25h[master (root-commit) 185b7cf] first commit from quakeTools project[0K[?25l
+ 79 files changed, 2664 insertions(+)[0K
+ create mode 100644 .Rbuildignore[0K
+ create mode 100644 .Rhistory[0K
+ create mode 100644 .Rproj.user/FB003D6B/console06/884EE32A[0K
+ create mode 100644 .Rproj.user/FB003D6B/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/FB003D6B/cpp-definition-cache[0K
+ create mode 100644 .Rproj.user/FB003D6B/pcs/debug-breakpoints.pper[0K
+ create mode 100644 .Rproj.user/FB003D6B/pcs/files-pane.pper[0K
+ create mode 100644 .Rproj.user/FB003D6B/pcs/source-pane.pper[0K
+ create mode 100644 .Rproj.user/FB003D6B/pcs/windowlayoutstate.pper[0K
+ create mode 100644 .Rproj.user/FB003D6B/pcs/workbench-pane.pper[0K
+ create mode 100644 .Rproj.user/FB003D6B/persistent-state[0K
+ create mode 100644 .Rproj.user/FB003D6B/rmd-outputs[0K
+ create mode 100644 .Rproj.user/FB003D6B/saved_source_markers[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/12946A1F[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/1C965DFB[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/294D9CB4[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/2E43CCED[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/32136A6A[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/645DA4B0[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/654A53BD[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/6893B3A6[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/79189CC0[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/7B418C89[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/7B61F8C7[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/7D0D18D[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/8D7D5EB0[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/90C18366[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/99624F3A[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/B4EF967A[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/CEF52E06[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/D4E1F80B[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/E52675F6[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/FA0F82B9[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/15DB898-con[0Kt
+ents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/35B555FA-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/4F856430[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/4F856430-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/515EA676[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/515EA676-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/5D8E1001[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/5D8E1001-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/63793492-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/7053769F[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/7053769F-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/9DACFFE6[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/9DACFFE6-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/B122D496-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/B1F2763B-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/E5BE55A2[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/E5BE55A2-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/EA857362-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/D8BD26B3-quaketools-e[0Kx
+amples/1/FB003D6BB4699F0/chunks.json[0K
+ create mode 100644 .Rproj.user/shared/notebooks/D8BD26B3-quaketools-e[0Kx
+amples/1/s/chunks.json[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 .gitignore[0K
+ create mode 100644 DESCRIPTION[0K
+ create mode 100644 NAMESPACE[0K
+ create mode 100644 R/data.R[0K
+ create mode 100644 R/functions.R[0K
+ create mode 100644 R/hello.R[0K
+ create mode 100644 README.md[0K
+ create mode 100644 data/earthquakes.rda[0K
+ create mode 100644 man/GeomTimeline.Rd[0K
+ create mode 100644 man/GeomTimelineLabel.Rd[0K
+ create mode 100644 man/earthquakes.Rd[0K
+ create mode 100644 man/eq_clean_data.Rd[0K
+ create mode 100644 man/eq_create_label.Rd[0K
+ create mode 100644 man/eq_location_clean.Rd[0K
+ create mode 100644 man/eq_map.Rd[0K
+ create mode 100644 man/geom_timeline.Rd[0K
+ create mode 100644 man/geom_timeline_label.Rd[0K
+ create mode 100644 man/hello.Rd[0K
+ create mode 100644 quakeTools.Rproj[0K
+ create mode 100644 tests/tests.R[0K
+ create mode 100644 vignettes/.gitignore[0K
+ create mode 100644 vignettes/quaketools-examples.Rmd[0K
+[0K[?25h[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0K[?25lr[0K[24G[?25h[25G[?25l
+[0K[?25hfatal: HttpRequestException encountered.[0K[?25l
+   Ocorreu um erro ao enviar a solicitação.[0K
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': d[0K[?25ha[0Kn[0Ki[0Ke[0Kl[0Kf[0Ks[0Ki[0Kl[0Kv[0Ka[0K8[0K8[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+[0K[?25hPassword for 'https://danielfsilva88@github.com':[0K[51G[?25l
+[0K[?25hCounting objects: 82, done.[0K[?25l
+[0K[?25hDelta compression using up to 4 threads.[0K[?25l
+Compressing objects:  11% (8/68)[0K[1G[?25hCompressing objects: 100% (68/68), done.[0K[?25l
+[0K[?25h[?25lWriting objects:  80% (66/82)[0K[1G[?25hWriting objects: 100% (82/82), 199.82 KiB | 4.25 MiB/s, done.[0K[?25l
+Total 82 (delta 10), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas: 100% (10/10), done.[0K[38G[?25h[?25l
+[0K[?25hTo https://github.com/danielfsilva88/quakeTools.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25h[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ d[0K[?25he[0Kv[0Kt[0Ko[0K[?25l$ devt[0K[?25h[?25l$ dev[0K[?25h[?25l$ de[0K[?25h[?25l$ d[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr[?25l
+op/1C965DFB.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/6893B3A6.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/79189CC0.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/7D0D18D.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/8D7D5EB0.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/D4E1F80B.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/INDEX.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/4F856430.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/4F856430-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/5D8E1001.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[30G[?25h[?25l
+B4699F0/5D8E1001-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/9DACFFE6-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/E5BE55A2.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/E5BE55A2-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in NAMESPACE.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/B253ECE0.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/E773AE2C.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/5F61C515.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/5F61C515-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/7AB1081D.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/7AB1081D-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[?25l
+B4699F0/82976DF2.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/82976DF2-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/D27C29D9.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/D27C29D9-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25h[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0K[?25lt[0K[12G[?25h[13G[14G[?25l$ git commit -[0K[?25ha[0Km[0K[18G[?25l$ git commit -am "[0K[?25h"[0K[19G[?25l$ git commit -am "t"[0K[20G[?25h[?25l$ git commit -am "te"[0K[21G[?25h[?25l$ git commit -am "tes"[0K[22G[?25h[?25l$ git commit -am "test"[0K[23G[?25h[?25l$ git commit -am "test "[0K[24G[?25h[?25l$ git commit -am "test a"[0K[24G[?25h[25G[?25l$ git commit -am "test an"[0K[26G[?25h[?25l$ git commit -am "test and"[0K[26G[?25h[27G[?25l$ git commit -am "test and "[0K[27G[?25h[28G[27G[26G[25G[24G[23G[?25l$ git commit -am "testt and "[0K[24G[?25h[?25l$ git commit -am "testth and "[0K[25G[?25h[?25l$ git commit -am "testtha and "[0K[26G[?25h[?25l$ git commit -am "testthat and "[0K[27G[?25h[28G[29G[30G[31G[32G[?25l$ git commit -am "testthat and i"[0K[33G[?25h[?25l$ git commit -am "testthat and in"[0K[34G[?25h[?25l$ git commit -am "testthat and int"[0K[34G[?25h[35G[?25l$ git commit -am "testthat and inte"[0K[36G[?25h[?25l$ git commit -am "testthat and inter"[0K[37G[?25h[?25l$ git commit -am "testthat and intern"[0K[38G[?25h[?25l$ git commit -am "testthat and interna"[0K[39G[?25h[?25l$ git commit -am "testthat and internal"[0K[40G[?25h[?25l$ git commit -am "testthat and internal "[0K[41G[?25h[?25l$ git commit -am "testthat and internal d"[0K[42G[?25h[?25l$ git commit -am "testthat and internal da"[0K[42G[?25h[43G[?25l$ git commit -am "testthat and internal dat"[0K[44G[?25h[?25l$ git commit -am "testthat and internal data"[0K[45G[?25h[?25l$ git commit -am "testthat and internal data "[0K[46G[?25h[?25l$ git commit -am "testthat and internal data f"[0K[47G[?25h[?25l$ git commit -am "testthat and internal data fi"[0K[48G[?25h[?25l$ git commit -am "testthat and internal data fix"[0K[49G[?25h[?25l$ git commit -am "testthat and internal data fixe"[0K[50G[?25h[?25l$ git commit -am "testthat and internal data fixed"[0K[50G[?25h[51G[?25l
 [0K[?25h

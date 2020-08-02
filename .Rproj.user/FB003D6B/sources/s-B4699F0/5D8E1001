@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "ISO8859-1",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2315201377",
     "id" : "5D8E1001",
-    "lastKnownWriteTime" : 1596405284,
-    "last_content_update" : 1596405284435,
+    "lastKnownWriteTime" : 1596407787,
+    "last_content_update" : 1596407787904,
     "path" : "~/Studies/progr_studies/R/Mastering_Software_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Documentation and Packaging/quakeTools/vignettes/quaketools-examples.Rmd",
     "project_path" : "vignettes/quaketools-examples.Rmd",
     "properties" : {
-        "cursorPosition" : "21,0",
+        "cursorPosition" : "21,18",
         "scrollLine" : "11"
     },
     "relative_order" : 3,
