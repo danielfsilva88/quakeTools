@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596405083504.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "4208536487",
+    "id" : "E5BE55A2",
+    "lastKnownWriteTime" : 1596405158,
+    "last_content_update" : 1596405158090,
+    "path" : "~/Studies/progr_studies/R/Mastering_Software_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Documentation and Packaging/quakeTools/R/functions.R",
+    "project_path" : "R/functions.R",
+    "properties" : {
+        "cursorPosition" : "291,20",
+        "scrollLine" : "285",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

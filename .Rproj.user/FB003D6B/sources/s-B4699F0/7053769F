@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594374425136.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "2168537217",
+    "id" : "7053769F",
+    "lastKnownWriteTime" : 1594374419,
+    "last_content_update" : 1594374419,
+    "path" : "~/Studies/progr_studies/R/Mastering_Software_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Documentation and Packaging/visTools/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

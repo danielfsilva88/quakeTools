@@ -1,0 +1,292 @@
+[0m[0K]0;:/c/Users/Daniel/Documents/Studies/progr_studies/R/Mastering_Software_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Documentation and Packaging/quakeTools[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Kt[0K[?25l$ git in[0K[?25hi[0Kt[0K[?25l
+[0K[?25hInitialized empty Git repository in C:/Users/Daniel/Documents/Studies/[0Kp[?25l
+rogr_studies/R/Mastering_Software_Development_R_Specialization/5_MSDR_[0KC
+apstone/Week 4 - Documentation and Packaging/quakeTools/.git/[0K
+[0K[?25h[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25hem[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote -[0K[?25hv[0K[17G[?25l
+[0K[?25h[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote a[0K[?25hd[0Kd[0K[18G[?25l$ git remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[25G[?25l$ git remote add origin https://github.com/danielfsilva88/quakeTools[0K[?25h.[0Kg[0K[?25l
+[0K[?25hi[0Kt[0K[?25l
+[0K[?25h[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote add origin https://github.com/danielfsilva88/quakeTools.g[0K[3G[?25h[?25l
+it[0K[?25h[?25l[1A$ git remote -v[0K
+[0K[1A[17G[?25h[?25l
+[?25horigin  https://github.com/danielfsilva88/quakeTools.git (fetch)[0K[?25l
+origin  https://github.com/danielfsilva88/quakeTools.git (push)[0K
+[0K[?25h[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K[?25h[?25l
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hm[0K[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+[0K
+No commits yet[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rbuildignore[0m[0K
+        [0;31m.Rhistory[0m[0K
+        [0;31m.Rproj.user/[0m[0K
+        [0;31m.gitignore[0m[0K
+        [0;31mDESCRIPTION[0m[0K
+        [0;31mNAMESPACE[0m[0K
+        [0;31mR/[0m[0K
+        [0;31mREADME.md[0m[0K
+        [0;31mdata/[0m[0K
+        [0;31mman/[0m[0K
+        [0;31mquakeTools.Rproj[0m[0K
+        [0;31mtests/[0m[0K
+        [0;31mvignettes/[0m[0K
+[0K
+nothing added to commit but untracked files present (use "git add" to [0Kt
+rack)[0K
+[0K[?25h[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[13G[?25l$ git commi[0K[?25h[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[10G[?25h[9G[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rhistory.[0K[?25l
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/cpp-defin[0Ki[?25l
+tion-cache.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/pcs/debug[0K-
+breakpoints.pper.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/pcs/files[0K-
+pane.pper.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/pcs/sourc[0Ke
+-pane.pper.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/pcs/windo[0Kw
+layoutstate.pper.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/pcs/workb[0Ke
+nch-pane.pper.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/persisten[0Kt[?25l
+-state.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/rmd-outpu[0Kt
+s.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/12946A1F.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/1C965DFB.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr[?25l
+op/294D9CB4.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/2E43CCED.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/32136A6A.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/645DA4B0.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/654A53BD.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/6893B3A6.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/79189CC0.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/7B418C89.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/7B61F8C7.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr[?25l
+op/7D0D18D.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/8D7D5EB0.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/90C18366.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/99624F3A.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/B4EF967A.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/CEF52E06.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+w[0K[1G[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr[?25l
+op/D4E1F80B.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/E52675F6.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/FA0F82B9.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/p[0Kr
+op/INDEX.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[?25l
+B4699F0/15DB898-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/35B555FA-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/4F856430.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[?25l
+B4699F0/4F856430-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/515EA676.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/515EA676-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[?25l
+B4699F0/5D8E1001.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[?25l
+B4699F0/5D8E1001-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[?25l
+B4699F0/63793492-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/7053769F.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/7053769F-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[?25l
+B4699F0/9DACFFE6.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[?25l
+B4699F0/9DACFFE6-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[?25l
+B4699F0/B122D496-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/B1F2763B-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[?25l
+B4699F0/E5BE55A2.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-[?25l
+B4699F0/E5BE55A2-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in .Rproj.user/FB003D6B/sources/s[0K-
+B4699F0/EA857362-contents.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/p[0Ka[?25l
+ths.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in NAMESPACE.[0K[?25l
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in man/GeomTimeline.Rd.[0K[?25l
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in man/GeomTimelineLabel.Rd.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in man/earthquakes.Rd.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25hwarning: LF will be replaced by CRLF in man/eq_clean_data.Rd.[0K[?25l
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in man/eq_create_label.Rd.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in man/eq_location_clean.Rd.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in man/eq_map.Rd.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in man/geom_timeline.Rd.[0K[1G[?25h[?25l
+The file will have its original line endings in your working directory[0K.
+[0K
+warning: LF will be replaced by CRLF in man/geom_timeline_label.Rd.[0K
+The file will have its original line endings in your working directory[0K.
+[0K
+[0K[?25h[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25h[?25lam ""[0K[19G[?25h[?25l$ git commit -am "f"[0K[20G[?25h[?25l$ git commit -am "fi"[0K[21G[?25h[?25l$ git commit -am "fir"[0K[22G[?25h[?25l$ git commit -am "firs"[0K[23G[?25h[?25l$ git commit -am "first"[0K[24G[?25h[?25l$ git commit -am "first "[0K[25G[?25h[?25l$ git commit -am "first c"[0K[26G[?25h[?25l$ git commit -am "first co"[0K[27G[?25h[?25l$ git commit -am "first com"[0K[28G[?25h[?25l$ git commit -am "first comm"[0K[29G[?25h[?25l$ git commit -am "first commi"[0K[30G[?25h[?25l$ git commit -am "first commit"[0K[31G[?25h[?25l$ git commit -am "first commit "[0K[32G[?25h[?25l$ git commit -am "first commit f"[0K[33G[?25h[?25l$ git commit -am "first commit fr"[0K[34G[?25h[?25l$ git commit -am "first commit frmo"[0K[36G[?25h[?25l$ git commit -am "first commit frmo "[0K[37G[?25h[?25l$ git commit -am "first commit frmo"[0K[36G[?25h[?25l$ git commit -am "first commit frm"[0K[35G[?25h[?25l$ git commit -am "first commit fr"[0K[34G[?25h[?25l$ git commit -am "first commit fro"[0K[35G[?25h[?25l$ git commit -am "first commit from"[0K[36G[?25h[?25l$ git commit -am "first commit from "[0K[37G[?25h[?25l$ git commit -am "first commit from q"[0K[38G[?25h[?25l$ git commit -am "first commit from qu"[0K[39G[?25h[?25l$ git commit -am "first commit from qua"[0K[40G[?25h[?25l$ git commit -am "first commit from quak"[0K[41G[?25h[?25l$ git commit -am "first commit from quake"[0K[42G[?25h[?25l$ git commit -am "first commit from quaket"[0K[43G[?25h[?25l$ git commit -am "first commit from quaketo"[0K[44G[?25h[?25l$ git commit -am "first commit from quaketoo"[0K[45G[?25h[?25l$ git commit -am "first commit from quaketool"[0K[46G[?25h[?25l$ git commit -am "first commit from quaketools"[0K[47G[?25h[46G[45G[44G[43G[?25l$ git commit -am "first commit from quakeools"[0K[42G[?25h[?25l$ git commit -am "first commit from quakeTools"[0K[43G[?25h[44G[45G[46G[47G[46G[47G[?25l$ git commit -am "first commit from quakeTools "[0K[48G[?25h[?25l$ git commit -am "first commit from quakeTools p"[0K[49G[?25h[?25l$ git commit -am "first commit from quakeTools pr"[0K[50G[?25h[?25l$ git commit -am "first commit from quakeTools pro"[0K[51G[?25h[?25l$ git commit -am "first commit from quakeTools proj"[0K[52G[?25h[?25l$ git commit -am "first commit from quakeTools proje"[0K[53G[?25h[?25l$ git commit -am "first commit from quakeTools projec"[0K[54G[?25h[?25l$ git commit -am "first commit from quakeTools project"[0K[55G[?25h[?25l
+[0K[?25h

@@ -1,0 +1,27 @@
+---
+title: "quaketools-examples"
+author: "danielfs88"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+A simple vignette with a simple example.
+
+```{r, fig.show='hold'}
+library(magrittr)
+earthquakes %>%
+  eq_clean_data() %>%
+  dplyr::filter(COUNTRY == "MEXICO" & lubridate::year(DATE) >= 2000) %>%
+  eq_map(annot_col = "DATE")
+```
