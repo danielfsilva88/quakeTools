@@ -512,4 +512,52 @@ The file will have its original line endings in your working directory[0K.
 oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
 tion and Packaging/quakeTools[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0K[?25lt[0K[12G[?25h[13G[14G[?25l$ git commit -[0K[?25ha[0Km[0K[18G[?25l$ git commit -am "[0K[?25h"[0K[19G[?25l$ git commit -am "t"[0K[20G[?25h[?25l$ git commit -am "te"[0K[21G[?25h[?25l$ git commit -am "tes"[0K[22G[?25h[?25l$ git commit -am "test"[0K[23G[?25h[?25l$ git commit -am "test "[0K[24G[?25h[?25l$ git commit -am "test a"[0K[24G[?25h[25G[?25l$ git commit -am "test an"[0K[26G[?25h[?25l$ git commit -am "test and"[0K[26G[?25h[27G[?25l$ git commit -am "test and "[0K[27G[?25h[28G[27G[26G[25G[24G[23G[?25l$ git commit -am "testt and "[0K[24G[?25h[?25l$ git commit -am "testth and "[0K[25G[?25h[?25l$ git commit -am "testtha and "[0K[26G[?25h[?25l$ git commit -am "testthat and "[0K[27G[?25h[28G[29G[30G[31G[32G[?25l$ git commit -am "testthat and i"[0K[33G[?25h[?25l$ git commit -am "testthat and in"[0K[34G[?25h[?25l$ git commit -am "testthat and int"[0K[34G[?25h[35G[?25l$ git commit -am "testthat and inte"[0K[36G[?25h[?25l$ git commit -am "testthat and inter"[0K[37G[?25h[?25l$ git commit -am "testthat and intern"[0K[38G[?25h[?25l$ git commit -am "testthat and interna"[0K[39G[?25h[?25l$ git commit -am "testthat and internal"[0K[40G[?25h[?25l$ git commit -am "testthat and internal "[0K[41G[?25h[?25l$ git commit -am "testthat and internal d"[0K[42G[?25h[?25l$ git commit -am "testthat and internal da"[0K[42G[?25h[43G[?25l$ git commit -am "testthat and internal dat"[0K[44G[?25h[?25l$ git commit -am "testthat and internal data"[0K[45G[?25h[?25l$ git commit -am "testthat and internal data "[0K[46G[?25h[?25l$ git commit -am "testthat and internal data f"[0K[47G[?25h[?25l$ git commit -am "testthat and internal data fi"[0K[48G[?25h[?25l$ git commit -am "testthat and internal data fix"[0K[49G[?25h[?25l$ git commit -am "testthat and internal data fixe"[0K[50G[?25h[?25l$ git commit -am "testthat and internal data fixed"[0K[50G[?25h[51G[?25l
-[0K[?25h
+[0K[?25h[master 5916b5b] testthat and internal data fixed[0K[?25l
+ 30 files changed, 431 insertions(+), 34 deletions(-)[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/B253ECE0[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/prop/E773AE2C[0K
+ rename .Rproj.user/FB003D6B/sources/s-B4699F0/{9DACFFE6 => 5F61C515} [0K(
+53%)[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/5F61C515-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/7AB1081D[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/7AB1081D-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/82976DF2[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/82976DF2-co[0Kn
+tents[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/D27C29D9[0K
+ create mode 100644 .Rproj.user/FB003D6B/sources/s-B4699F0/D27C29D9-co[0Kn
+tents[0K
+ create mode 100644 R/sysdata.rda[0K
+ create mode 100644 tests/testthat.R[0K
+ rename tests/{ => testthat}/tests.R (97%)[0K
+[0K[?25h[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -am "testthat and internal data fixed"[0K[?25h[?25l$ git add -A[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hfatal: HttpRequestException encountered.[0K[?25l
+   Ocorreu um erro ao enviar a solicitação.[0K
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': d[0K[?25ha[0Kn[0Ki[0Ke[0Kl[0Kf[0Ks[0Ki[0Kl[0Kv[0Ka[0K8[0K8[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+[0K[?25hPassword for 'https://danielfsilva88@github.com':[0K[51G[?25l
+[0K[?25hCounting objects: 33, done.[0K[?25l
+[0K[?25hDelta compression using up to 4 threads.[0K[?25l
+Compressing objects:  25% (8/32)[0K[1G[?25hCompressing objects: 100% (32/32), done.[0K[?25l
+Writing objects:  54% (18/33)[0K[16G[?25h[?25lWriting objects: 100% (33/33), 6.63 KiB | 522.00 KiB/s, done.[0K
+Total 33 (delta 14), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  64% (9/14)[0K[1G[?25hremote: Resolving deltas: 100% (14/14), completed with 12 local object[0Ks[?25l
+.[0K
+[0K[?25hTo https://github.com/danielfsilva88/quakeTools.git[0K[?25l
+   185b7cf..5916b5b  master -> master[0K
+[0K[?25h[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+]0;:/c/Users/Daniel/Documents/Studies/progr_studies/R/Mastering_Software_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Documentation and Packaging/quakeTools[?25l
+[0;32mDaniel@LAPTOP-BA9NU084 [0;35m [0;33m~/Documents/Studies/progr_studies/R/Mastering_[0KS
+oftware_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Document[0Ka
+tion and Packaging/quakeTools[0;36m (master)[0m[0K
+$[0K[3G[?25h

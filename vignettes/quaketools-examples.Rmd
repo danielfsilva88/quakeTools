@@ -16,12 +16,57 @@ knitr::opts_chunk$set(
 )
 ```
 
-A simple vignette with a simple example.
+# Overview
 
-```{r, fig.show='hold'}
+The goal of visTools is to clean and plot earthquake data from **The 
+Significant Database Earthquake** of [NOAA](https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1).
+
+## Examples
+
+### First step: extract and clean data
+
+```{r}
 library(quakeTools)
-earthquakes %>%
-  eq_clean_data() %>%
-  dplyr::filter(COUNTRY == "MEXICO" & lubridate::year(DATE) >= 2000) %>%
-  eq_map(annot_col = "DATE")
+library(ggplot2)
+cleanquakes <- eq_clean_data(earthquakes)
+plotquakes <- dplyr::filter(cleanquakes, COUNTRY == "MEXICO" & lubridate::year(DATE) >= 2000)
+```
+
+The function `eq_clean_data` receives NOAA dataframe (embedded in this package as `earthquakes`), creating and treating some columns. This function also calls `eq_location_clean` function to treat the `LOCATION_NAME` column specifically, as you could see below.
+
+```{r}
+head(plotquakes[,c("DATE", "LATITUDE", "LONGITUDE", "LOCATION")])
+```
+### First plot example: earthquake timeline
+
+```{r plot_1, , fig.width = 5, fig.height = 3, fig.show='hold'}
+ggplot(plotquakes, aes(x = DATE, y = COUNTRY, size = EQ_PRIMARY, colour = DEATHS)) +
+geom_timeline() +
+xlab("Date") + ggplot2::ylab("") +
+labs(size = "Richter scale", color = "# deaths" ) +
+theme(axis.line.y=element_blank(),panel.background=element_blank())
+```
+
+### Second plot example: earthquake timeline with annotation
+
+```{r plot_2, fig.width = 8, fig.height = 5, fig.show='hold'}
+ggplot(plotquakes, aes(x = DATE, y = COUNTRY, size = EQ_PRIMARY, colour = DEATHS)) +
+geom_timeline() +
+geom_timeline_label(aes(label = LOCATION, n_max = 6)) +
+xlab("Date") + ggplot2::ylab("") +
+labs(size = "Richter scale", color = "# deaths" ) +
+theme(axis.line.y=element_blank(),panel.background=element_blank())
+```
+
+### Third plot example: earthquake spots in map with date popup
+
+```{r plot_3, fig.show='hold'}
+eq_map(plotquakes, annot_col = "DATE")
+```
+
+### Fourth plot example: earthquake spots in map with location, intensity and deaths popup
+
+```{r plot_4, fig.show='hold'}
+plotquakes$popup_text = eq_create_label(plotquakes)
+eq_map(plotquakes, annot_col = "popup_text")
 ```

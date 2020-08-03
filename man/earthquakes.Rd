@@ -15,7 +15,7 @@ The Significant Database Earthquake from NOAA
 earthquakes
 }
 \description{
-List of earthquakes since B.C. around the world from NOAA
+Help to access data: https://stackoverflow.com/questions/32964741/accessing-sysdata-rda-within-package-functions
 }
 \examples{
 \dontrun{
