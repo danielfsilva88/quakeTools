@@ -1,13 +1,13 @@
 {
-    "path" : "~/Studies/progr_studies/R/Mastering_Software_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Documentation and Packaging/quakeTools/R",
-    "sortOrder" : [
+    "path": "~/Studies/progr_studies/R/Mastering_Software_Development_R_Specialization/5_MSDR_Capstone/Week 4 - Documentation and Packaging/quakeTools/R",
+    "sortOrder": [
         {
-            "ascending" : false,
-            "columnIndex" : 4
+            "columnIndex": 4,
+            "ascending": false
         },
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
