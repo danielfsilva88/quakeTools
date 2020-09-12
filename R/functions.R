@@ -97,7 +97,6 @@ eq_clean_data <- function(df){
 #' @importFrom ggplot2 ggproto Geom aes draw_key_blank
 #' @importFrom grid pointsGrob gpar segmentsGrob gList gTree
 #'
-#' @export
 GeomTimeline <- ggplot2::ggproto("GeomTimeline",
   ggplot2::Geom, required_aes = "x",
   default_aes = ggplot2::aes(y = NA, colour = "black", size = 4, alpha = 0.5),
@@ -141,9 +140,10 @@ GeomTimeline <- ggplot2::ggproto("GeomTimeline",
 #'
 #' @param mapping Set of aesthetic mappings created by aes() or aes_().
 #' @param data The data to be displayed in this layer.
+#' @param stat Previous calculation to prepare dataframe to be plotted
 #' @param position Position adjustment. Could be a string or the result of a call to a position adjustment function.
 #' @param ... Other arguments passed on layer like color = "red" or size = 3.
-#' @param na.rm If FALSE, the default, missing values are mremoved with a warning.  If TRUE, missing values are silently removed.
+#' @param na.rm If FALSE, the default, missing values are removed with a warning.  If TRUE, missing values are silently removed.
 #' @param show.legend logical.  Should this layer be included in the legends?  NA, the default, incldes if any aesthetics are mapped.  False never includes,
 #' and TRUE always includes.
 #' @param inherit.aes If FALSE, overrides the default aesthetics, rather than combining with them.  This is most usefule for helper functions that
@@ -194,7 +194,6 @@ geom_timeline <- function(mapping = NULL, data = NULL,
 #' @importFrom ggplot2 ggproto Geom aes draw_key_blank
 #' @importFrom grid textGrob unit gpar polylineGrob gList
 #'
-#' @export
 GeomTimelineLabel <-
   ggplot2::ggproto("GeomTimelineLabel", ggplot2::Geom,
     required_aes = c("x", "label"),
@@ -241,6 +240,7 @@ GeomTimelineLabel <-
 #'
 #' @param mapping Set of aesthetic mappings created by aes() or aes_().
 #' @param data The data to be displayed in this layer.
+#' @param stat Previous calculation to prepare dataframe to be plotted
 #' @param position Position adjustment. Could be a string or the result of a call to a position adjustment function.
 #' @param ... Other arguments passed on layer like color = "red" or size = 3.
 #' @param na.rm If FALSE, the default, missing values are mremoved with a warning.  If TRUE, missing values are silently removed.

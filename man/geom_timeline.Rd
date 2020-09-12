@@ -20,12 +20,14 @@ geom_timeline(
 
 \item{data}{The data to be displayed in this layer.}
 
+\item{stat}{Previous calculation to prepare dataframe to be plotted}
+
 \item{position}{Position adjustment. Could be a string or the result of a call to a position adjustment function.}
 
 \item{show.legend}{logical.  Should this layer be included in the legends?  NA, the default, incldes if any aesthetics are mapped.  False never includes,
 and TRUE always includes.}
 
-\item{na.rm}{If FALSE, the default, missing values are mremoved with a warning.  If TRUE, missing values are silently removed.}
+\item{na.rm}{If FALSE, the default, missing values are removed with a warning.  If TRUE, missing values are silently removed.}
 
 \item{inherit.aes}{If FALSE, overrides the default aesthetics, rather than combining with them.  This is most usefule for helper functions that
 define both data and aesthetics and shouldn't inherit behavior from the default plot specification, e.t. borders.}

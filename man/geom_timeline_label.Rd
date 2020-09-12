@@ -20,6 +20,8 @@ geom_timeline_label(
 
 \item{data}{The data to be displayed in this layer.}
 
+\item{stat}{Previous calculation to prepare dataframe to be plotted}
+
 \item{position}{Position adjustment. Could be a string or the result of a call to a position adjustment function.}
 
 \item{na.rm}{If FALSE, the default, missing values are mremoved with a warning.  If TRUE, missing values are silently removed.}
