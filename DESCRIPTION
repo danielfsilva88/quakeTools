@@ -1,8 +1,10 @@
 Package: quakeTools
 Type: Package
-Title: Functions To Clean And Visualize Earthquakes Data
 Version: 0.1.0
 Author: danielfs88
+Depends: R (>= 3.5)
+Imports: magrittr, ggplot2, grid, leaflet, stringi, stringr, testthat
+Title: Functions To Clean And Visualize Earthquakes Data
 Description: This package is specialized in clean and plot earthquake data from
     from National Oceanic and Atmospheric Administration (NOAA).
 License: CC0
@@ -14,3 +16,4 @@ Suggests:
     rmarkdown,
     testthat
 VignetteBuilder: knitr
+URL: https://github.com/danielfsilva88/quakeTools

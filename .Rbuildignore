@@ -1,3 +1,5 @@
 ^R/hello\.R$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^\.Rhistory$
+^\.Rproj\.user/*$
