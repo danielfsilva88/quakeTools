@@ -2,7 +2,7 @@ Package: quakeTools
 Type: Package
 Version: 0.1.0
 Author: danielfs88
-Maintainer: danielfs88
+Maintainer: danielfs88 <daniel.ferreira.silva88@gmail.com>
 Depends: R (>= 3.5)
 Imports: magrittr, ggplot2, grid, leaflet, stringi, stringr, lubridate, dplyr, testthat
 Title: Functions To Clean And Visualize Earthquakes Data
