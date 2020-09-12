@@ -5,7 +5,7 @@ Significant Database Earthquake** of [NOAA](https://www.ngdc.noaa.gov/nndc/strut
 
 ## Installation
 
-You can install the released version of visTools from [GitHub](https://github.com/) with:
+You can install the released version of quakeTools from [GitHub](https://github.com/) with:
 
 ``` r
 devtools::install_github("danielfsilva88/quakeTools")
@@ -22,3 +22,6 @@ earthquakes %>%
   dplyr::filter(COUNTRY == "MEXICO" & lubridate::year(DATE) >= 2000) %>%
   eq_map(annot_col = "DATE")
 ```
+
+
+[![Travis build status](https://travis-ci.com/danielfsilva88/quakeTools.svg?branch=master)](https://travis-ci.com/danielfsilva88/quakeTools)

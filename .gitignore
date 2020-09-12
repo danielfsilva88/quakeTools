@@ -1,4 +1,4 @@
 inst/doc
-.Rproj.user/*
 R/hello.R
 .Rhistory
+.Rproj.user/

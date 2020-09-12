@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 
 # Overview
 
-The goal of visTools is to clean and plot earthquake data from **The 
+The goal of quakeTools is to clean and plot earthquake data from **The 
 Significant Database Earthquake** of [NOAA](https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1).
 
 ## Examples
