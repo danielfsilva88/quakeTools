@@ -86,11 +86,14 @@ eq_clean_data <- function(df){
 #' receive parameters to y (some factor variable, it was proposed earthquake's
 #' country), colour, size and alpha.
 #'
-#' @param **x** Array of date class
-#' @param y Array of factor class. Suggested to be the earthquakes country
-#' @param colour Array of class numeric
-#' @param size Array of class numeric
-#' @param alpha Value (from 0 to 1) to control transparency
+#' @section Aesthetics (x is required) :
+#' \itemize{
+#' \item{\code{x}} : Array of date class
+#' \item{\code{y}} : Array of factor class. Suggested to be the earthquakes country
+#' \item{\code{colour}} : Array of class numeric
+#' \item{\code{size}} : Array of class numeric
+#' \item{\code{alpha}} : Value (from 0 to 1) to control transparency
+#' }
 #'
 #' @return Plot layer containing points and segments grob.
 #'
@@ -185,11 +188,14 @@ geom_timeline <- function(mapping = NULL, data = NULL,
 #' receive parameters to y (some factor variable, it was proposed earthquake
 #' country), colour, size and alpha.
 #'
-#' @param **x** Array of date class.
-#' @param **label** Array of char class. Ideally contains the earthquakes
+#' @section Aesthetics (x and label are required) :
+#' \itemize{
+#' \item{\code{x}} : Array of date class
+#' \item{\code{label}} : Array of char class. Ideally contains the earthquakes
 #' location treated with \code{eq_clean_data} function.
-#' @param n_max Value to the maximum number of earthquakes location printed in
+#' \item{\code{n_max}} : Value to the maximum number of earthquakes location printed in
 #' plot. It must be passed an array to size parameter in GeomTimeline to work.
+#' }
 #'
 #' @importFrom ggplot2 ggproto Geom aes draw_key_blank
 #' @importFrom grid textGrob unit gpar polylineGrob gList

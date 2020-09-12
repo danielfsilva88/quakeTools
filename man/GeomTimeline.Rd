@@ -10,17 +10,6 @@ An object of class \code{GeomTimeline} (inherits from \code{Geom}, \code{ggproto
 \usage{
 GeomTimeline
 }
-\arguments{
-\item{**x**}{Array of date class}
-
-\item{y}{Array of factor class. Suggested to be the earthquakes country}
-
-\item{colour}{Array of class numeric}
-
-\item{size}{Array of class numeric}
-
-\item{alpha}{Value (from 0 to 1) to control transparency}
-}
 \value{
 Plot layer containing points and segments grob.
 }
@@ -29,4 +18,15 @@ This object must receive an array of date class, and optionally could
 receive parameters to y (some factor variable, it was proposed earthquake's
 country), colour, size and alpha.
 }
+\section{Aesthetics (x is required) }{
+
+\itemize{
+\item{\code{x}} : Array of date class
+\item{\code{y}} : Array of factor class. Suggested to be the earthquakes country
+\item{\code{colour}} : Array of class numeric
+\item{\code{size}} : Array of class numeric
+\item{\code{alpha}} : Value (from 0 to 1) to control transparency
+}
+}
+
 \keyword{datasets}
